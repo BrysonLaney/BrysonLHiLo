@@ -1,0 +1,15 @@
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/obj/Debug/net6.0/BrysonLHiLo.csproj.AssemblyReference.cache
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/obj/Debug/net6.0/BrysonLHiLo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/obj/Debug/net6.0/BrysonLHiLo.AssemblyInfoInputs.cache
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/obj/Debug/net6.0/BrysonLHiLo.AssemblyInfo.cs
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/obj/Debug/net6.0/BrysonLHiLo.csproj.CoreCompileInputs.cache
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/bin/Debug/net6.0/BrysonLHiLo
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/bin/Debug/net6.0/BrysonLHiLo.deps.json
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/bin/Debug/net6.0/BrysonLHiLo.runtimeconfig.json
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/bin/Debug/net6.0/BrysonLHiLo.dll
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/bin/Debug/net6.0/BrysonLHiLo.pdb
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/obj/Debug/net6.0/BrysonLHiLo.dll
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/obj/Debug/net6.0/refint/BrysonLHiLo.dll
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/obj/Debug/net6.0/BrysonLHiLo.pdb
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/obj/Debug/net6.0/BrysonLHiLo.genruntimeconfig.cache
+/Users/brysonlaney/Documents/GitHub/BrysonLHiLo/obj/Debug/net6.0/ref/BrysonLHiLo.dll
